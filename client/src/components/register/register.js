@@ -46,14 +46,14 @@ const Register = () => {
       <h1>Register</h1>
       <input
         type="text"
-        name="name"
+        name="firstName"
         value={user.firstName}
         placeholder="First Name"
         onChange={handleChange}
       ></input>
       <input
         type="text"
-        name="name"
+        name="lastName"
         value={user.lastName}
         placeholder="Last Name"
         onChange={handleChange}
