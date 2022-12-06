@@ -1,7 +1,9 @@
 # mernstack
 <div align="center">
 
-
+to run the code:-
+npm install
+npm start
 
 # Mernstack 
 
@@ -15,6 +17,7 @@ This application contains basic login and signup form for both client and server
 
 - [About](#-about)
 - Tech Stack 
+       
 - [Features](#-features)
 
 ---
